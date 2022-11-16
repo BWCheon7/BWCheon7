@@ -26,6 +26,14 @@ section=header&
 text=### Git Hub: Special Lecture
 fontSize=200)
             
+![header](https://capsule-render.vercel.app/api?
+type=egg&
+color=auto&
+height=300&
+section=header&
+text=깃허브%20특강&
+fontSize=90)
+            
 ![footer](https://capsule-render.vercel.app/api?section=footer)  
             
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=BWCheon7)](https://github.com/BWCheon7)
