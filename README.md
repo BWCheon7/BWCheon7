@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
             
-![header](https://capsule-render.vercel.app/api?
-type=wave&
-color=auto&
-height=300&
+![header](https://capsule-render.vercel.app/api?            
+type=shark&            
+color=&
+height=100&
 section=header&
-text=깃허브%20특강&
-fontSize=90)
+text=### Git Hub: Special Lecture
+fontSize=200)
+            
+![footer](https://capsule-render.vercel.app/api?section=footer)  
             
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=BWCheon7)](https://github.com/BWCheon7)
             
