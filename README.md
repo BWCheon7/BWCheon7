@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
             
+![header](https://capsule-render.vercel.app/api?section=header)
+# Git Hub: Special Lecture
+            
+![footer](https://capsule-render.vercel.app/api?section=footer)
+
+            
 ![header](https://capsule-render.vercel.app/api?            
 type=shark&            
 color=&
